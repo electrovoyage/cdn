@@ -13,5 +13,13 @@
         "image": "this_way_up.png",
         "style": "any",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_accidents",
+        "contents": "REMEMBER...\n Alert your supervisor if you see:\nOSHA inspector\nDept of Energy inspector\nGAO accountant\nUndercover police officer\nNuclear regulatory commisioner\nFEMA coordinator\nOrdinary police officer\nJournalist\nPublic works inspector\nMSHA mine inspector\nATF / FBI / US marshal",
+        "image": "underground_70s_accidents.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
     }
 ]
