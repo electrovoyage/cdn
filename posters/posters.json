@@ -69,5 +69,13 @@
         "image": "underground_70swelcome.png",
         "style": "70s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_alert",
+        "contents": "KARLA THE COMPLAINER SAYS...\n\"My new boss is a robot!\"\nBUT DID YOU KNOW...?\nRobots are SMARTER than you\nRobots work HARDER than you\nRobots are BETTER than you\nVOLUNTEER FOR TESTING TODAY",
+        "image": "underground_80s_alert.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
     }
 ]
