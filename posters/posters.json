@@ -1,0 +1,81 @@
+[
+    {
+        "material": "signage/stasis_annex",
+        "contents": "EXTENDED RELAXATION AREA\nAUTHORIZED PERSONNEL ONLY",
+        "image": "stasis_annex.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/this_way_up",
+        "contents": "THIS WAY UP",
+        "image": "this_way_up.png",
+        "style": "any",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_50s_welcome",
+        "contents": "WELCOME TEST SUBJECTS!\nPlease sign in with the receptionist before proceeding to the lounge.",
+        "image": "underground_50s_welcome.png",
+        "style": "50s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/undergound_50swelcome",
+        "contents": "Welcome...\nto the FUTURE of TOMORROW!\nAPERTURE SCIENCE INNOVATORS",
+        "image": "underground_welcome_future.png",
+        "style": "50s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_accidents",
+        "contents": "REMEMBER...\n Alert your supervisor if you see:\nOSHA inspector\nDept of Energy inspector\nGAO accountant\nUndercover police officer\nNuclear regulatory commisioner\nFEMA coordinator\nOrdinary police officer\nJournalist\nPublic works inspector\nMSHA mine inspector\nATF / FBI / US marshal",
+        "image": "underground_70s_accidents.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_redbutton",
+        "contents": "REMEMBER!\nIF YOU SEE AN ORANGE JUMPSUIT\nHIT THE RED BUTTON",
+        "image": "underground_70s_accidents.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_sign1",
+        "contents": "Keep to the LEFT\nDO NOT LITTER\nDO NOT LOITER\nDO NOT TOUCH GLASS.",
+        "image": "underground_70s_keepleft.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/undergound_70s_sign2",
+        "contents": "ALL FORMS MUST BE FILLED OUT LEGIBLY AND COMPLETELY BEFORE ELIGIBLE TO RECEIVE PAYMENT OF $60",
+        "image": "underground_60dollar_forms.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_walkway_sign1",
+        "contents": "WARNING\nMOVING PLATFORM\nUSE HANDRAILS",
+        "image": "underground_70s_handrails.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70swelcome",
+        "contents": "Welcome to Aperture\nWhere the science is theoretical but your $60 is FACT!",
+        "image": "underground_70swelcome.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    }
+]
