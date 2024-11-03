@@ -53,5 +53,21 @@
         "image": "underground_70s_handrails.png",
         "style": "70s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_handrail",
+        "contents": "WARNING\nMOVING PLATFORM\nUSE HANDRAILS",
+        "image": "underground_70s_handrails_black.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70swelcome",
+        "contents": "Welcome to Aperture\nWhere the science is theoretical but your $60 is FACT!",
+        "image": "underground_70swelcome.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
     }
 ]
