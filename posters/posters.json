@@ -29,5 +29,13 @@
         "image": "underground_70s_redbutton.png",
         "style": "70s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_sign1",
+        "contents": "Keep to the LEFT\nDO NOT LITTER\nDO NOT LOITER\nDO NOT TOUCH GLASS.",
+        "image": "underground_70s_keepleft.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
     }
 ]
