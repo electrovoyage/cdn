@@ -21,5 +21,13 @@
         "image": "underground_70s_accidents.png",
         "style": "70s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_redbutton",
+        "contents": "REMEMBER!\nIF YOU SEE AN ORANGE JUMPSUIT\nHIT THE RED BUTTON",
+        "image": "underground_70s_accidents.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
     }
 ]
