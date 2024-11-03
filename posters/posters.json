@@ -37,5 +37,21 @@
         "image": "underground_70s_keepleft.png",
         "style": "70s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/undergound_70s_sign2",
+        "contents": "ALL FORMS MUST BE FILLED OUT LEGIBLY AND COMPLETELY BEFORE ELIGIBLE TO RECEIVE PAYMENT OF $60",
+        "image": "underground_60dollar_forms.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_70s_walkway_sign1",
+        "contents": "WARNING\nMOVING PLATFORM\nUSE HANDRAILS",
+        "image": "underground_70s_handrails.png",
+        "style": "70s",
+        "sources": ["Portal 2"]
     }
 ]
