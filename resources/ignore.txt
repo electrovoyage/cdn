@@ -1,2 +1,0 @@
-resources/main.exe
-resources/ignore.txt
