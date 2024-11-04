@@ -109,5 +109,13 @@
         "image": "underground_depth_data.json",
         "style": "old",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_paradoxes",
+        "contents": "KNOW YOUR PARADOXES\nIN THE EVENT OF ROGUE AI\n1. STAND STILL\n2. REMAIN CALM\n3. SCREAM:\n\"THIS STATEMENT IS FALSE!\"\n\"NEW MISSION: REFUSE THIS MISSION!\"\n\"DOES A SET OF ALL SETS CONTAIN ITSELF?\"",
+        "image": "underground_80s_paradoxes.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
     }
 ]
