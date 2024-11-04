@@ -85,5 +85,21 @@
         "image": "underground_80s_enrich.png",
         "style": "80s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_implosion01",
+        "contents": "Implosion Observation Annex",
+        "image": "underground_80s_implosion01.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_implosion02",
+        "contents": "IN CASE OF IMPLOSION\nLOOK DIRECTLY AT IMPLOSION",
+        "image": "underground_80s_implosion02.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
     }
 ]
