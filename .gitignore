@@ -1,5 +1,4 @@
 pack.bat
-resources/main.exe
-*.png
-resources/vtfs
-posters
+posters/main.exe
+posters/vtfs
+resources
