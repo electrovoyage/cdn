@@ -101,5 +101,13 @@
         "image": "underground_80s_implosion02.png",
         "style": "80s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_depth",
+        "contents": "2500m",
+        "image": "underground_depth_data.json",
+        "style": "oldap",
+        "sources": ["Portal 2"]
     }
 ]
