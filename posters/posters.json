@@ -117,5 +117,21 @@
         "image": "underground_80s_paradoxes.png",
         "style": "80s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_volunteer",
+        "contents": "REMEMBER...\nROBOTS DON'T SLEEP\nThey can test AND do your job\nVOLUNTEER FOR TESTING TODAY",
+        "image": "underground_80s_volunteer.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_80s_work",
+        "contents": "APERTURE SCIENCE\nLET'S WORK TOGETHER",
+        "image": "underground_80s_work.png",
+        "style": "80s",
+        "sources": ["Portal 2"]
     }
 ]
