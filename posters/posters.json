@@ -141,5 +141,13 @@
         "image": "underground_airpockets01.png",
         "style": "old",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_attendant",
+        "contents": "Please...\nWAIT FOR ATTENDANT TO BEGIN LIFT\nThank you!",
+        "image": "underground_attendant.png",
+        "style": "50s",
+        "sources": ["Portal 2"]
     }
 ]
