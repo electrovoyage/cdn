@@ -133,5 +133,13 @@
         "image": "underground_80s_work.png",
         "style": "80s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_airpockets01",
+        "contents": "DANGER:\nIN THE EVENT OF FLOODING, SEEK AIR POCKETS",
+        "image": "underground_airpockets01.png",
+        "style": "old",
+        "sources": ["Portal 2"]
     }
 ]
