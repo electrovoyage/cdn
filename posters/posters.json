@@ -149,5 +149,13 @@
         "image": "underground_attendant.png",
         "style": "50s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/underground_bonobos01",
+        "contents": "ACCIDENTS HURT...\n...YOU!\nYOU WILL BE HURT\n...COWORKERS!\nDON'T ENDANGER OTHERS\n...THE COMPANY!\nREPLACEMENTS ARE COSTLY\n...SCIENCE!\nINVESTIGATIONS IMPEDE PROGRESS\nSafety First!",
+        "image": "underground_bonobos01.png",
+        "style": "50s",
+        "sources": ["Portal 2"]
     }
 ]
