@@ -157,5 +157,13 @@
         "image": "underground_bonobos01.png",
         "style": "50s",
         "sources": ["Portal 2"]
+    },
+
+    {
+        "material": "signage/breaker1",
+        "contents": "BREAKER 0135B\nMAIN POWER:\nENTRANCE WAY\nAUTOMATED DOORS\nLOBBY\nTESTING LOUNGE",
+        "image": "breaker1.png",
+        "style": "old",
+        "sources": ["Portal 2"]
     }
 ]
